@@ -1,0 +1,2 @@
+# Githubpractice
+Classwork for today
